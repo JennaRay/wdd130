@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-family: Garamond;
+  padding: 15px;
+}
+
+.myheading {
+  color: #50b100;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 3px dotted red;
+}
