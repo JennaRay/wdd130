@@ -1,0 +1,16 @@
+.iron {
+  text-align: center;
+  color: blue;
+  font-size: 24px;
+  font-family: impact;
+}
+
+#other {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #228882;
+  font-size: 60px;
+}
+
+#otherother {
+  text-align: center;
+}
