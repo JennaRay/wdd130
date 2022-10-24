@@ -1,0 +1,28 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr, 9;
+    grid-template-rows: 1fr, 4;
+}
+
+h1 {
+    text-size-adjust: 100%;
+    grid-column: 1/9;
+    grid-row: 2/3;
+}
+
+h4 {
+    grid-column: 2/4;
+    grid-row: 3/4;
+}
+
+img {
+    grid-column: 1/4;
+    grid-row: 1/4;
+}
+
+div {
+    display: block;
+    background-color: #B9B8B9;
+    grid-column: 3/9;
+    grid-row: 1/4;
+}
