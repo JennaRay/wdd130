@@ -173,3 +173,20 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
+#wireframes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: #BF9739;
+  padding-bottom: 50px;
+}
+
+#homebox {
+  grid-column: 1/2;
+}
+#mattersbox {
+  grid-column: 2/3;
+}
+.words {
+  color: white;
+}

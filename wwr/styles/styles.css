@@ -245,3 +245,13 @@ footer a:hover {
       margin-top: 25px;
   }
 }
+
+#hero2-box {
+  display: grid;
+  grid-template-columns: repeat(5 1fr);
+}
+
+#hero2-img {
+  grid-column: span;
+  z-index: -1;
+}
