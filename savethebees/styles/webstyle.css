@@ -33,7 +33,7 @@ nav {
 nav a {
     text-align: center;
     color: #291A19;
-    text-decoration: none;
+    text-decoration: 0;
     padding: 15px 120px;
 }
 
@@ -43,7 +43,7 @@ nav a:hover {
     }
 
 #hero-box {
-    margin: none;
+    margin: 0;
     display: grid;
     grid-template-columns: 2fr 2fr 1fr 1fr;
     grid-template-rows: 1fr 5fr 2fr 2fr;
@@ -77,7 +77,6 @@ nav a:hover {
     border-color: #BF9739;
     grid-column: 2/3;
     grid-row: 4/5;
-    align-items: right;
     margin-left: 120px; 
     width: 150px;
     height: 50px;
