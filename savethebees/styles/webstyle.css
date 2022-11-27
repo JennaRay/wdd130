@@ -83,6 +83,11 @@ nav a:hover {
     margin-top: -50px;
 }
 
+#hero-box button:hover {
+ background-color: #BF9739;
+ color: #291A19;
+}
+
 #hero-title {
     grid-column: 2/3;
     grid-row: 2/3;
