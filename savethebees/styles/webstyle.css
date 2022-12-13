@@ -13,7 +13,9 @@
     /* change the values below to your chosen font(s) */
     --heading-font: "Niagra", "Oranienbaum", "Serif";
     --paragraph-font: Lato, Helvetica, sans-serif; }
-
+p {
+    font-size: 16pt;
+}
 body {
     margin: 0;
 }
